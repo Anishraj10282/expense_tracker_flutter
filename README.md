@@ -1,4 +1,5 @@
 # expense_tracker_flutter
 
 
-![51rtyy](https://user-images.githubusercontent.com/46563828/111164131-fd690080-855a-11eb-90fc-671f79363b13.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/46563828/111164466-58025c80-855b-11eb-99fe-97ff79c70db1.gif)
+
